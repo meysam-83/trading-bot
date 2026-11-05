@@ -1,0 +1,25 @@
+# اطلاعات محرمانه و توکن‌ها
+.env
+*.env
+*.pem
+
+# فایل‌های دیتابیس محلی
+*.db
+*.sqlite3
+
+# فایل‌های حافظه موقت پایتون
+__pycache__/
+*.py[cod]
+*$py.class
+
+# محیط‌های مجازی
+venv/
+env/
+ENV/
+.venv/
+
+# تنظیمات IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
